@@ -18,6 +18,7 @@ https://www.figma.com/file/3CJh1KDBSXHzUqqN3THmcD/Todos?node-id=0%3A1
 ```shell
 npm i axios
 npm i styled-components
+npm i -D @types/styled-components
 npm i react-hot-toast
 npm i @reduxjs/toolkit react-redux
 ```

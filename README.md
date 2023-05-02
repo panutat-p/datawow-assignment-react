@@ -15,25 +15,31 @@ https://www.figma.com/file/3CJh1KDBSXHzUqqN3THmcD/Todos?node-id=0%3A1
 - [ ] (Bonus) User-friendly and smooth UX/UI.
 - [ ] (Bonus) Make it responsive.
 
+## JSON Web Server
+
 ```shell
-npm i axios
-npm i styled-components
-npm i -D @types/styled-components
-npm i react-hot-toast
-npm i @reduxjs/toolkit react-redux
+curl http://localhost:3001/todos
 ```
 
 ## Guides
 
-https://react-hot-toast.com/docs
+https://styled-components.com/docs/basics#getting-started
 
 https://redux-toolkit.js.org/tutorials/typescript#define-typed-hooks
-
-https://reactjs.org/docs/higher-order-components.html
 
 ## Build
 
 ```shell
 npm run build
 serve ./dist
+```
+
+## Dependencies
+
+```shell
+npm i axios
+npm i styled-components
+npm i -D @types/styled-components
+npm i react-hot-toast
+npm i @reduxjs/toolkit react-redux
 ```

@@ -16,17 +16,12 @@ https://www.figma.com/file/3CJh1KDBSXHzUqqN3THmcD/Todos?node-id=0%3A1
 - [ ] (Bonus) Make it responsive.
 
 ```shell
-npm i react-router-dom
-npm i react-hook-form
+npm i styled-components
 npm i react-hot-toast
 npm i @reduxjs/toolkit react-redux
 ```
 
 ## Guides
-
-https://reactrouter.com/en/main/start/tutorial#setup
-
-https://react-hook-form.com/get-started
 
 https://react-hot-toast.com/docs
 

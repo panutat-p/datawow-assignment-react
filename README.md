@@ -16,6 +16,7 @@ https://www.figma.com/file/3CJh1KDBSXHzUqqN3THmcD/Todos?node-id=0%3A1
 - [ ] (Bonus) Make it responsive.
 
 ```shell
+npm i axios
 npm i styled-components
 npm i react-hot-toast
 npm i @reduxjs/toolkit react-redux
